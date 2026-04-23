@@ -1,15 +1,19 @@
+import { colors } from '@/constants/theme';
 import { Stack } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
-import 'react-native-reanimated';
 
 export default function RootLayout() {
 
   return (
     <>
-      <Stack>
-        <Stack.Screen name="index" />
+      <StatusBar style='auto' />
+      <Stack screenOptions={{
+        contentStyle: {
+          backgroundColor: colors.natural
+        }
+      }}>
+        <Stack.Screen name="index" options={{ title: 'Todos', }} />
       </Stack>
-      <StatusBar style="auto" />
     </>
   );
 }

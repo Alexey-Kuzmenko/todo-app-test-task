@@ -1,8 +1,19 @@
-import { Text } from 'react-native';
+import { Container, Form, TodoCard } from '@/components';
+import { Todo } from '@/types/todo.type';
+
+const mockData: Todo = {
+    id: 1,
+    completed: false,
+    title: 'Read book'
+}
 
 function HomeScreen() {
     return (
-        <Text>Hello world</Text>
+        <Container>
+            <Form />
+            <TodoCard data={mockData} />
+        </Container>
+
     );
 }
 
