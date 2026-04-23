@@ -11,6 +11,6 @@
 
 ## Screenshots
 
-<img src="https://drive.google.com/uc?id=1xOJvddRnV9UH7UI9ozIHtj-hWbuXUjEk" alt="Empty todos list" width="100">
+<img src="https://drive.google.com/uc?id=1xOJvddRnV9UH7UI9ozIHtj-hWbuXUjEk" alt="Empty todos list" width="300">
 
-<img src="https://drive.google.com/uc?id=112DhdpSsozk41WJTyzPjyZABS59cHYDu" alt="Todos list with tasks" width="100">
+<img src="https://drive.google.com/uc?id=112DhdpSsozk41WJTyzPjyZABS59cHYDu" alt="Todos list with tasks" width="300">
