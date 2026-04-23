@@ -1,6 +1,6 @@
 # Acid Sof test task
 
-## Todo app features:
+**Todo app features:**
 
 1. Add new tasks through an input field and "Add" button.
 2. Display a list of created tasks.
@@ -11,6 +11,6 @@
 
 ## Screenshots
 
-![Empty todos list](https://drive.google.com/uc?id=1xOJvddRnV9UH7UI9ozIHtj-hWbuXUjEk)
+<img src="https://drive.google.com/uc?id=1xOJvddRnV9UH7UI9ozIHtj-hWbuXUjEk" alt="Empty todos list" width="100">
 
-![Todos list with tasks](https://drive.google.com/uc?id=112DhdpSsozk41WJTyzPjyZABS59cHYDu)
+<img src="https://drive.google.com/uc?id=112DhdpSsozk41WJTyzPjyZABS59cHYDu" alt="Todos list with tasks" width="100">
